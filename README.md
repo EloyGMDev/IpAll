@@ -31,7 +31,7 @@ The tool is designed for users who want a simple, transparent, and ethical way t
 Clone the repository and run the program directly with Python:
 
 ```bash
-git clone [https://github.com/EloyGMDev/IpAll.git](https://github.com/EloyGM/IpAll.git)
+git clone https://github.com/EloyGMDev/IpAll.git
 cd IpAll
 python ipall.py
 ````
