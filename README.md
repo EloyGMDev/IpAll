@@ -1,6 +1,5 @@
 
 
-````markdown
 # IpAll
 
 IpAll is a Python-based command-line tool for local network auditing and analysis.
